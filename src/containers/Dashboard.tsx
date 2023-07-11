@@ -275,8 +275,8 @@ export default (props: any) => {
     </div>
 
     <div style={{ marginTop: "10px", marginBottom: "40px", textAlign: "center" }}>
-      <p style={{lineHeight: ".2"}}><b>Nova Network Block Explorer</b></p>
-      <p>©2022 Nova Network Inc.</p>
+      <p style={{lineHeight: ".2"}}><b>Bitrock Blockchain Block Explorer</b></p>
+      <p>©2022 Bitrock Blockchain Inc.</p>
       <br />
     </div>
   </div>
